@@ -11,6 +11,7 @@ public class DemoTestB1 {
 	    public void showVariables() {
 	        // Local variable
 	        int localVar = 5;
+		    //code cleared you can check and updet me team
 
 	        System.out.println("Local Variable: " + localVar);
 	        System.out.println("Instance Variable: " + instanceVar);
